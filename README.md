@@ -14,6 +14,8 @@ The project follows the complete Machine Learning lifecycle:
 - Model evaluation
 - Model interpretation
 
+Academic project developed in 2025 as part of a Machine Learning course.
+
 ---
 
 ## Dataset
